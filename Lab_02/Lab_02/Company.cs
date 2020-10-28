@@ -5,7 +5,7 @@ namespace Lab_02
     class Company
     {
         public string CompanyName { private set; get; }
-        public List<Employee> Workers;
+        internal List<Employee> Workers;
 
         public Company(string companyName, Boss boss)
         {
