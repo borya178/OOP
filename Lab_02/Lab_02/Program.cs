@@ -6,7 +6,7 @@ namespace Lab_02
     {
         static void Main(string[] args)
         {
-            Boss boss = new Boss("Сергей");
+            Company.Boss boss = new Company.Boss("Сергей");
             Employee employee = new Employee("Иван");
             Employee employee2 = new Employee("Василий");
             Company company = new Company("Амкор", boss);
