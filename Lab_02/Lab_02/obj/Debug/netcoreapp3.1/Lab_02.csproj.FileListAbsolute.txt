@@ -9,3 +9,16 @@ G:\Уч\OOP\Lab_02\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.AssemblyInfoInputs.cach
 G:\Уч\OOP\Lab_02\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.AssemblyInfo.cs
 G:\Уч\OOP\Lab_02\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.dll
 G:\Уч\OOP\Lab_02\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.pdb
+D:\Уч\OOP\Lab_02\Lab_02\bin\Debug\netcoreapp3.1\Lab_02.exe
+D:\Уч\OOP\Lab_02\Lab_02\bin\Debug\netcoreapp3.1\Lab_02.deps.json
+D:\Уч\OOP\Lab_02\Lab_02\bin\Debug\netcoreapp3.1\Lab_02.runtimeconfig.json
+D:\Уч\OOP\Lab_02\Lab_02\bin\Debug\netcoreapp3.1\Lab_02.runtimeconfig.dev.json
+D:\Уч\OOP\Lab_02\Lab_02\bin\Debug\netcoreapp3.1\Lab_02.dll
+D:\Уч\OOP\Lab_02\Lab_02\bin\Debug\netcoreapp3.1\Lab_02.pdb
+D:\Уч\OOP\Lab_02\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.csprojAssemblyReference.cache
+D:\Уч\OOP\Lab_02\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.AssemblyInfoInputs.cache
+D:\Уч\OOP\Lab_02\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.AssemblyInfo.cs
+D:\Уч\OOP\Lab_02\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.csproj.CoreCompileInputs.cache
+D:\Уч\OOP\Lab_02\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.dll
+D:\Уч\OOP\Lab_02\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.pdb
+D:\Уч\OOP\Lab_02\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.genruntimeconfig.cache

@@ -6,7 +6,7 @@ namespace Lab_02
     {
         static void Main(string[] args)
         {
-            Company.Boss boss = new Company.Boss("Сергей");
+            Boss boss = new Boss("Сергей");
             Employee employee = new Employee("Иван");
             Employee employee2 = new Employee("Василий");
             Company company = new Company("Амкор", boss);
@@ -16,6 +16,7 @@ namespace Lab_02
             Console.WriteLine(employee);
 
             boss.HireWorker(employee);
+            Console.WriteLine(employee);
             boss.HireWorker(employee2);
             if (company.IsWorkerInCompany(employee))
             {

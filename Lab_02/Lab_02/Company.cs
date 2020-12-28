@@ -5,7 +5,7 @@ namespace Lab_02
     class Company
     {
         public string CompanyName { private set; get; }
-        private List<Employee> Workers;
+        internal  List<Employee> Workers { private set; get; }
 
         public Company(string companyName, Boss boss)
         {
@@ -35,39 +35,6 @@ namespace Lab_02
         public override string ToString()
         {
             return $"В этой компании работает {this.Workers.Count} сотрудников";
-        }
-
-        public class Boss : Employee
-        {
-            public Company MyCompany { set; get; }
-            public Boss(string name)
-                : base(name)
-            { }
-
-            public bool HireWorker(Employee employee)
-            {
-                if (employee.CountOfCompanies >= 5 || MyCompany.Workers.Contains(employee))
-                {
-                    return false;
-                }
-                MyCompany.Workers.Add(employee);
-                employee.CountOfCompanies++;
-                return true;
-            }
-
-            public bool FireWorker(Employee employee)
-            {
-                if (!MyCompany.Workers.Remove(employee))
-                {
-                    return false;
-                }
-                employee.CountOfCompanies--;
-                return true;
-            }
-            public override string ToString()
-            {
-                return $"Босс компании {MyCompany.CompanyName}";
-            }
         }
     }
 }
